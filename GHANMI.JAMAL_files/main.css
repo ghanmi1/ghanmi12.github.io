@@ -1,0 +1,25 @@
+/* Table with genera information */
+#general-info {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  border-collapse: separate;
+  border-spacing: 6px;
+  border-color: #011F5B;
+  border-width: 0px; 
+  background: white;
+}
+
+tr {
+    display: table-row;
+    vertical-align: center;
+}
+
+td {
+    text-align: left;
+}
+
+/* #general-info tr:nth-child(odd){ */
+/*     background-color: #CCE6E6; */
+/* } */
